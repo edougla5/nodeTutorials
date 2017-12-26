@@ -4,7 +4,8 @@
   "description": "this is a good idea",
   "main": "mainFile.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.14.3"
   },
   "devDependencies": {
     "body-parser": "^1.18.2"
